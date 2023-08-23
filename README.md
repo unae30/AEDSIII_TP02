@@ -1,4 +1,4 @@
-# AEDSIII_TP02
+# AEDSIII Trabalho Prático 2
 
 Trabalho de AEDS 3 - UFOP-ICEA
 
